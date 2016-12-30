@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Total Number of devices detected::1]]>
+    </line>
+    <line>
+      <![CDATA[Starting Appium server for device : 05d6da08f0db3a18]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Logged in successfully : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Successfully lands on welcome screen : ACTUAL : Welcome to the new you. 	EXPECTED :Welcome to the new you.]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Showing Correct Error Message For Sign In With Invalid Email : ACTUAL : Sorry, the email address you entered is invalid. Please try again. 	EXPECTED :Sorry, the email address you entered is invalid. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Showing Correct Error Message For Sign In Failed With Invalid passwords : ACTUAL : Email or Password cannot be validated. Please try again 	EXPECTED :Email or Password cannot be validated. Please try again]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Email Feild is populated with previously logged in email id : ACTUAL : pen@cc.com 	EXPECTED :pen@cc.com]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Logged in successfully using account created in open app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Logged in successfully using account created in Classic app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Logged in successfully using account created in IOSS app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+    </line>
+  </reporter-output>
+  <suite name="Sign In " duration-ms="448324" started-at="2016-12-20T12:28:33Z" finished-at="2016-12-20T12:36:01Z">
+    <groups>
+    </groups>
+    <test name="Login Lands On Home Screen" duration-ms="59505" started-at="2016-12-20T12:28:33Z" finished-at="2016-12-20T12:29:32Z">
+      <class name="com.atmecs.falcon.signinandoobe.LoginTest">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="32" started-at="2016-12-20T17:58:33Z" finished-at="2016-12-20T17:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T17:58:33Z" finished-at="2016-12-20T17:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="15809" started-at="2016-12-20T17:58:33Z" finished-at="2016-12-20T17:58:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.LoginTest.loginTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="loginTest" duration-ms="42866" started-at="2016-12-20T17:58:49Z" finished-at="2016-12-20T17:59:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Logged in successfully : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="798" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest on [LoginTest passed=0 failed=0 skipped=0] status=SUCCESS method=LoginTest.loginTest()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]] output=PASS : Logged in successfully : ACTUAL : TODAY 	EXPECTED :TODAY]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.LoginTest -->
+    </test> <!-- Login Lands On Home Screen -->
+    <test name="SignOut LandsOn WelcomeScreen" duration-ms="57201" started-at="2016-12-20T12:29:32Z" finished-at="2016-12-20T12:30:30Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignOutLandsOnWelcomeScreen">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="15487" started-at="2016-12-20T17:59:32Z" finished-at="2016-12-20T17:59:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignOutLandsOnWelcomeScreen.signOutLandsOnWelcomeScreen() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="signOutLandsOnWelcomeScreen()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="signOutLandsOnWelcomeScreen" duration-ms="40980" started-at="2016-12-20T17:59:48Z" finished-at="2016-12-20T18:00:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Successfully lands on welcome screen : ACTUAL : Welcome to the new you. 	EXPECTED :Welcome to the new you.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signOutLandsOnWelcomeScreen -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="733" started-at="2016-12-20T18:00:29Z" finished-at="2016-12-20T18:00:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signOutLandsOnWelcomeScreen on [SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0] status=SUCCESS method=SignOutLandsOnWelcomeScreen.signOutLandsOnWelcomeScreen()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]] output=PASS : Successfully lands on welcome screen : ACTUAL : Welcome to the new you. 	EXPECTED :Welcome to the new you.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:00:30Z" finished-at="2016-12-20T18:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[SignOutLandsOnWelcomeScreen passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:00:30Z" finished-at="2016-12-20T18:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignOutLandsOnWelcomeScreen -->
+    </test> <!-- SignOut LandsOn WelcomeScreen -->
+    <test name="Sign In Failed With Invalid Email Id" duration-ms="45741" started-at="2016-12-20T12:30:30Z" finished-at="2016-12-20T12:31:15Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignFailedInvalidEmail">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="0" started-at="2016-12-20T18:00:30Z" finished-at="2016-12-20T18:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:00:30Z" finished-at="2016-12-20T18:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="15960" started-at="2016-12-20T18:00:30Z" finished-at="2016-12-20T18:00:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignFailedInvalidEmail.signInFailedInvalidEmail() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="signInFailedInvalidEmail()[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="signInFailedInvalidEmail" duration-ms="28965" started-at="2016-12-20T18:00:46Z" finished-at="2016-12-20T18:01:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Showing Correct Error Message For Sign In With Invalid Email : ACTUAL : Sorry, the email address you entered is invalid. Please try again. 	EXPECTED :Sorry, the email address you entered is invalid. Please try again.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInFailedInvalidEmail -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="816" started-at="2016-12-20T18:01:14Z" finished-at="2016-12-20T18:01:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInFailedInvalidEmail on [SignFailedInvalidEmail passed=0 failed=0 skipped=0] status=SUCCESS method=SignFailedInvalidEmail.signInFailedInvalidEmail()[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]] output=PASS : Showing Correct Error Message For Sign In With Invalid Email : ACTUAL : Sorry, the email address you entered is invalid. Please try again. 	EXPECTED :Sorry, the email address you entered is invalid. Please try again.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignFailedInvalidEmail passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:01:15Z" finished-at="2016-12-20T18:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignFailedInvalidEmail -->
+    </test> <!-- Sign In Failed With Invalid Email Id -->
+    <test name="Sign In Failed With Invalid Pasword" duration-ms="45941" started-at="2016-12-20T12:31:15Z" finished-at="2016-12-20T12:32:01Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignFailedInvalidPassword">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="16" started-at="2016-12-20T18:01:15Z" finished-at="2016-12-20T18:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:01:15Z" finished-at="2016-12-20T18:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="15594" started-at="2016-12-20T18:01:15Z" finished-at="2016-12-20T18:01:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignFailedInvalidPassword.signinFailedInvalidPassword() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="signinFailedInvalidPassword()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="signinFailedInvalidPassword" duration-ms="29423" started-at="2016-12-20T18:01:31Z" finished-at="2016-12-20T18:02:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Showing Correct Error Message For Sign In Failed With Invalid passwords : ACTUAL : Email or Password cannot be validated. Please try again 	EXPECTED :Email or Password cannot be validated. Please try again]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signinFailedInvalidPassword -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="908" started-at="2016-12-20T18:02:00Z" finished-at="2016-12-20T18:02:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signinFailedInvalidPassword on [SignFailedInvalidPassword passed=0 failed=0 skipped=0] status=SUCCESS method=SignFailedInvalidPassword.signinFailedInvalidPassword()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]] output=PASS : Showing Correct Error Message For Sign In Failed With Invalid passwords : ACTUAL : Email or Password cannot be validated. Please try again 	EXPECTED :Email or Password cannot be validated. Please try again]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:02:01Z" finished-at="2016-12-20T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[SignFailedInvalidPassword passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:02:01Z" finished-at="2016-12-20T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignFailedInvalidPassword -->
+    </test> <!-- Sign In Failed With Invalid Pasword -->
+    <test name="Previously Email id get poulated in Email feild after log out" duration-ms="58682" started-at="2016-12-20T12:32:01Z" finished-at="2016-12-20T12:33:00Z">
+      <class name="com.atmecs.falcon.signinandoobe.EmailFieldPopulatedWithPreviouslySignedInUserEmailId">
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="16206" started-at="2016-12-20T18:02:01Z" finished-at="2016-12-20T18:02:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.EmailFieldPopulatedWithPreviouslySignedInUserEmailId.emailFiledPopulatedWithPreviousSignedInEmailId() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="0" started-at="2016-12-20T18:02:01Z" finished-at="2016-12-20T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:02:01Z" finished-at="2016-12-20T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="emailFiledPopulatedWithPreviousSignedInEmailId()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="emailFiledPopulatedWithPreviousSignedInEmailId" duration-ms="41769" started-at="2016-12-20T18:02:17Z" finished-at="2016-12-20T18:02:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Email Feild is populated with previously logged in email id : ACTUAL : pen@cc.com 	EXPECTED :pen@cc.com]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailFiledPopulatedWithPreviousSignedInEmailId -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="707" started-at="2016-12-20T18:02:59Z" finished-at="2016-12-20T18:03:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=emailFiledPopulatedWithPreviousSignedInEmailId on [EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0] status=SUCCESS method=EmailFieldPopulatedWithPreviouslySignedInUserEmailId.emailFiledPopulatedWithPreviousSignedInEmailId()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]] output=PASS : Email Feild is populated with previously logged in email id : ACTUAL : pen@cc.com 	EXPECTED :pen@cc.com]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:00Z" finished-at="2016-12-20T18:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[EmailFieldPopulatedWithPreviouslySignedInUserEmailId passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:00Z" finished-at="2016-12-20T18:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.EmailFieldPopulatedWithPreviouslySignedInUserEmailId -->
+    </test> <!-- Previously Email id get poulated in Email feild after log out -->
+    <test name="Sign in using account created with open App" duration-ms="57644" started-at="2016-12-20T12:33:00Z" finished-at="2016-12-20T12:33:58Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignInUsingOpenAccount">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:00Z" finished-at="2016-12-20T18:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="16126" started-at="2016-12-20T18:03:00Z" finished-at="2016-12-20T18:03:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignInUsingOpenAccount.signInUsingOpenAccount() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:00Z" finished-at="2016-12-20T18:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="signInUsingOpenAccount()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="signInUsingOpenAccount" duration-ms="40748" started-at="2016-12-20T18:03:16Z" finished-at="2016-12-20T18:03:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Logged in successfully using account created in open app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInUsingOpenAccount -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="770" started-at="2016-12-20T18:03:57Z" finished-at="2016-12-20T18:03:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInUsingOpenAccount on [SignInUsingOpenAccount passed=0 failed=0 skipped=0] status=SUCCESS method=SignInUsingOpenAccount.signInUsingOpenAccount()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]] output=PASS : Logged in successfully using account created in open app : ACTUAL : TODAY 	EXPECTED :TODAY]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:58Z" finished-at="2016-12-20T18:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignInUsingOpenAccount passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:58Z" finished-at="2016-12-20T18:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignInUsingOpenAccount -->
+    </test> <!-- Sign in using account created with open App -->
+    <test name="Sign in using account created with Classic App" duration-ms="62866" started-at="2016-12-20T12:33:58Z" finished-at="2016-12-20T12:35:00Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignUsingClassicAccount">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="15" started-at="2016-12-20T18:03:58Z" finished-at="2016-12-20T18:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:03:58Z" finished-at="2016-12-20T18:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="19484" started-at="2016-12-20T18:03:58Z" finished-at="2016-12-20T18:04:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignUsingClassicAccount.signUsingClassicAccount() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="signUsingClassicAccount()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="signUsingClassicAccount" duration-ms="42536" started-at="2016-12-20T18:04:17Z" finished-at="2016-12-20T18:05:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Logged in successfully using account created in Classic app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signUsingClassicAccount -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="831" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUsingClassicAccount on [SignUsingClassicAccount passed=0 failed=0 skipped=0] status=SUCCESS method=SignUsingClassicAccount.signUsingClassicAccount()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]] output=PASS : Logged in successfully using account created in Classic app : ACTUAL : TODAY 	EXPECTED :TODAY]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[SignUsingClassicAccount passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignUsingClassicAccount -->
+    </test> <!-- Sign in using account created with Classic App -->
+    <test name="Sign in using account created with IOs Platform App" duration-ms="60712" started-at="2016-12-20T12:35:00Z" finished-at="2016-12-20T12:36:01Z">
+      <class name="com.atmecs.falcon.signinandoobe.SignInUsingAccountCreatedInAnotherPlatform">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="preSetup" is-config="true" duration-ms="15" started-at="2016-12-20T17:58:33Z" finished-at="2016-12-20T17:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="startApp(java.lang.reflect.Method)[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="startApp" is-config="true" duration-ms="16308" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.atmecs.falcon.signinandoobe.SignInUsingAccountCreatedInAnotherPlatform.signInUsingAccountCreatedInAnotherPlatform() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="beforetest" is-config="true" duration-ms="0" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:05:00Z" finished-at="2016-12-20T18:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="signInUsingAccountCreatedInAnotherPlatform()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="signInUsingAccountCreatedInAnotherPlatform" duration-ms="43570" started-at="2016-12-20T18:05:17Z" finished-at="2016-12-20T18:06:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[PASS : Logged in successfully using account created in IOSS app : ACTUAL : TODAY 	EXPECTED :TODAY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInUsingAccountCreatedInAnotherPlatform -->
+        <test-method status="PASS" signature="killServer(org.testng.ITestResult)[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="killServer" is-config="true" duration-ms="818" started-at="2016-12-20T18:06:00Z" finished-at="2016-12-20T18:06:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInUsingAccountCreatedInAnotherPlatform on [SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0] status=SUCCESS method=SignInUsingAccountCreatedInAnotherPlatform.signInUsingAccountCreatedInAnotherPlatform()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]] output=PASS : Logged in successfully using account created in IOSS app : ACTUAL : TODAY 	EXPECTED :TODAY]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killServer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="teardown" is-config="true" duration-ms="0" started-at="2016-12-20T18:06:01Z" finished-at="2016-12-20T18:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-12-20T18:06:01Z" finished-at="2016-12-20T18:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:[SignInUsingAccountCreatedInAnotherPlatform passed=0 failed=0 skipped=0]]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-20T18:06:01Z" finished-at="2016-12-20T18:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.falcon.signinandoobe.SignInUsingAccountCreatedInAnotherPlatform -->
+    </test> <!-- Sign in using account created with IOs Platform App -->
+  </suite> <!-- Sign In  -->
+</testng-results>

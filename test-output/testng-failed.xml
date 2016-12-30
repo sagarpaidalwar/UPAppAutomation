@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Sign In ]">
+  <test name="Login Lands On Home Screen">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.LoginTest"/>
+    </classes>
+  </test> <!-- Login Lands On Home Screen -->
+  <test name="SignOut LandsOn WelcomeScreen">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignOutLandsOnWelcomeScreen"/>
+    </classes>
+  </test> <!-- SignOut LandsOn WelcomeScreen -->
+  <test name="Sign In Failed With Invalid Email Id">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignFailedInvalidEmail"/>
+    </classes>
+  </test> <!-- Sign In Failed With Invalid Email Id -->
+  <test name="Sign In Failed With Invalid Pasword">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignFailedInvalidPassword"/>
+    </classes>
+  </test> <!-- Sign In Failed With Invalid Pasword -->
+  <test name="Previously Email id get poulated in Email feild after log out">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.EmailFieldPopulatedWithPreviouslySignedInUserEmailId"/>
+    </classes>
+  </test> <!-- Previously Email id get poulated in Email feild after log out -->
+  <test name="Sign in using account created with open App">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignInUsingOpenAccount"/>
+    </classes>
+  </test> <!-- Sign in using account created with open App -->
+  <test name="Sign in using account created with Classic App">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignUsingClassicAccount"/>
+    </classes>
+  </test> <!-- Sign in using account created with Classic App -->
+  <test name="Sign in using account created with IOs Platform App">
+    <classes>
+      <class name="com.atmecs.falcon.signinandoobe.SignInUsingAccountCreatedInAnotherPlatform"/>
+    </classes>
+  </test> <!-- Sign in using account created with IOs Platform App -->
+</suite> <!-- Failed suite [Sign In ] -->
