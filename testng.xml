@@ -3,7 +3,8 @@
 
 <suite name="Regression Testing" thread-count="2">
 <suite-files >
-    <suite-file path="D:\\NewFalconJawbone\\falcon-mobile\\src\main\\resources\\testSuits\\signin.xml" />
+<!--     <suite-file path="D:\\NewFalconJawbone\\falcon-mobile\\src\main\\resources\\testSuits\\signin.xml" /> -->
 <!--     <suite-file path="D:\NewFalconJawbone\falcon-mobile\src\main\resources\testSuits\reminder.xml" />  -->
+<suite-file path="D:\\NewFalconJawbone\\falcon-mobile\\src\main\\resources\\testSuits\\Duels.xml" />
 </suite-files>
 </suite>

@@ -1354,3 +1354,421 @@
 2016-12-20 20:43:46 INFO  ParallelThread:49 - Total Number of devices detected::1
 2016-12-20 20:43:46 INFO  Reflections:229 - Reflections took 244 ms to scan 1 urls, producing 5 keys and 39 values 
 2016-12-20 20:43:47 INFO  AppiumParallelTest:49 - Starting Appium server for device : 05d6da08f0db3a18
+2017-01-20 19:52:30 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-20 19:52:30 INFO  Reflections:229 - Reflections took 337 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-20 19:52:31 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-20 19:54:34 INFO  AppiumParallelTest:49 - Closing Appium server for device 192.168.56.101:5555
+2017-01-20 19:54:50 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-20 19:54:50 INFO  Reflections:229 - Reflections took 122 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-20 19:54:50 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-20 19:55:19 INFO  AppiumParallelTest:49 - Closing Appium server for device 192.168.56.101:5555
+2017-01-20 19:56:26 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-20 19:56:27 INFO  Reflections:229 - Reflections took 241 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-20 19:56:27 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-20 19:56:56 INFO  AppiumParallelTest:49 - Closing Appium server for device 192.168.56.101:5555
+2017-01-21 13:00:46 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 13:00:46 INFO  Reflections:229 - Reflections took 382 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 13:00:47 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-21 13:02:15 INFO  AppiumParallelTest:49 - Closing Appium server for device 192.168.56.101:5555
+2017-01-21 13:13:50 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 13:13:51 INFO  Reflections:229 - Reflections took 225 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 13:13:51 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-21 13:17:44 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 13:17:44 INFO  Reflections:229 - Reflections took 160 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 13:17:45 INFO  AppiumParallelTest:49 - Starting Appium server for device : 192.168.56.101:5555
+2017-01-21 13:18:13 INFO  AppiumParallelTest:49 - Closing Appium server for device 192.168.56.101:5555
+2017-01-21 15:10:03 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:10:03 INFO  Reflections:229 - Reflections took 203 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:10:03 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:10:55 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-21 15:11:03 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:15:11 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:15:11 INFO  Reflections:229 - Reflections took 204 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:15:12 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:16:01 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-21 15:16:13 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:20:18 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:20:18 INFO  Reflections:229 - Reflections took 209 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:20:19 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:21:13 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:23:51 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:23:51 INFO  Reflections:229 - Reflections took 236 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:23:51 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:24:45 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-21 15:24:57 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:39:58 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:39:58 INFO  Reflections:229 - Reflections took 198 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:39:58 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:40:50 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-21 15:41:06 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:43:54 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:43:55 INFO  Reflections:229 - Reflections took 230 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:43:55 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:44:48 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-21 15:44:56 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:47:51 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:47:51 INFO  Reflections:229 - Reflections took 242 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:47:52 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:48:40 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 15:49:57 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 15:49:57 INFO  Reflections:229 - Reflections took 227 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 15:49:58 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 15:50:49 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:28:18 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:28:18 INFO  Reflections:229 - Reflections took 112 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:28:18 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:29:12 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:33:09 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:33:09 INFO  Reflections:229 - Reflections took 128 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:33:09 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:35:17 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:35:18 INFO  Reflections:229 - Reflections took 149 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:35:18 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:38:34 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:38:35 INFO  Reflections:229 - Reflections took 212 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:38:35 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:39:27 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:39:46 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:39:46 INFO  Reflections:229 - Reflections took 232 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:39:47 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:40:41 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:40:59 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:40:59 INFO  Reflections:229 - Reflections took 149 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:40:59 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:41:52 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:43:07 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:43:07 INFO  Reflections:229 - Reflections took 217 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:43:08 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:44:01 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-21 16:53:57 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-21 16:53:57 INFO  Reflections:229 - Reflections took 226 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-21 16:53:57 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-21 16:54:54 INFO  VerificationManager:36 - PASS :  Actual value : true is same as Expected value: true
+2017-01-21 16:54:55 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 18:04:52 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 18:04:53 INFO  Reflections:229 - Reflections took 324 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 18:04:53 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 18:06:38 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 18:06:40 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 18:10:47 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 18:10:47 INFO  Reflections:229 - Reflections took 251 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 18:10:47 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 18:11:53 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 18:11:55 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 18:27:59 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 18:27:59 INFO  Reflections:229 - Reflections took 259 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 18:27:59 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 18:29:09 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 18:29:14 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-23 18:29:28 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 18:30:41 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 18:30:41 INFO  Reflections:229 - Reflections took 254 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 18:30:42 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 18:32:10 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 18:32:11 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-23 18:32:11 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-23 18:32:11 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-23 18:32:11 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-23 18:32:13 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 18:39:10 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 18:39:10 INFO  Reflections:229 - Reflections took 249 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 18:39:11 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 18:40:24 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 18:40:25 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-23 18:40:25 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-23 18:40:25 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-23 18:40:25 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-23 18:40:26 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-23 18:40:28 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 19:47:11 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 19:47:12 INFO  Reflections:229 - Reflections took 579 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 19:47:13 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 19:52:13 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 19:52:18 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 19:53:31 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 19:53:32 INFO  Reflections:229 - Reflections took 202 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 19:53:32 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 19:54:28 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 19:54:32 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-23 19:59:56 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-23 19:59:57 INFO  Reflections:229 - Reflections took 239 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-23 19:59:57 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-23 20:00:54 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-23 20:00:58 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-24 18:51:15 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 18:51:15 INFO  Reflections:229 - Reflections took 405 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-24 18:51:16 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 18:53:17 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-24 18:53:51 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-24 18:58:55 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 18:58:55 INFO  Reflections:229 - Reflections took 265 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-24 18:58:55 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 19:00:58 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-24 19:01:16 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-24 19:03:55 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 19:03:55 INFO  Reflections:229 - Reflections took 125 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-24 19:03:55 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 19:07:29 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 19:07:30 INFO  Reflections:229 - Reflections took 261 ms to scan 1 urls, producing 5 keys and 39 values 
+2017-01-24 19:07:30 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 19:08:32 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-24 19:08:33 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:08:33 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-24 19:08:33 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-24 19:08:33 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-24 19:08:34 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:08:36 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-24 19:09:57 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 19:09:57 INFO  Reflections:229 - Reflections took 250 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-24 19:09:58 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 19:11:00 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-24 19:11:01 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:11:01 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-24 19:11:01 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-24 19:11:01 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-24 19:11:02 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:13:55 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-24 19:19:51 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-24 19:19:52 INFO  Reflections:229 - Reflections took 156 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-24 19:19:52 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-24 19:20:53 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-24 19:20:56 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:20:56 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-24 19:20:56 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-24 19:20:56 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-24 19:20:57 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-24 19:23:57 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 15:15:41 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:15:41 INFO  Reflections:229 - Reflections took 296 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:15:41 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:28:01 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:28:01 INFO  Reflections:229 - Reflections took 218 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:28:01 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:28:58 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-25 15:30:22 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 15:35:24 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:35:24 INFO  Reflections:229 - Reflections took 218 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:35:25 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:36:25 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:36:57 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 15:37:47 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:37:48 INFO  Reflections:229 - Reflections took 156 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:37:48 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:38:47 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:41:18 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:41:18 INFO  Reflections:229 - Reflections took 249 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:41:19 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:42:15 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:42:19 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 15:49:25 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:49:25 INFO  Reflections:229 - Reflections took 234 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:49:26 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:50:21 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:50:27 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-25 15:50:33 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 15:54:32 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:54:33 INFO  Reflections:229 - Reflections took 220 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:54:33 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:55:30 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:57:04 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 15:57:05 INFO  Reflections:229 - Reflections took 218 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 15:57:05 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 15:58:04 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 15:58:12 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-25 15:58:48 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 17:43:38 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 17:43:39 INFO  Reflections:229 - Reflections took 140 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 17:43:39 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 17:44:37 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 17:44:43 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 17:50:51 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 17:50:51 INFO  Reflections:229 - Reflections took 265 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 17:50:52 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 17:51:49 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 17:51:53 INFO  VerificationManager:209 - PASS : sended duels appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 17:51:53 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 17:51:55 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 17:57:06 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 17:57:07 INFO  Reflections:229 - Reflections took 252 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 17:57:07 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 17:58:02 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-25 17:58:03 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 17:58:03 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-25 17:58:03 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-25 17:58:03 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-25 17:58:04 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 17:58:59 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 17:59:04 INFO  VerificationManager:209 - PASS : sended duels appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 17:59:04 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-25 18:00:00 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:00:05 INFO  VerificationManager:209 - PASS : sended duels appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:00:05 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-25 18:01:01 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:01:05 INFO  VerificationManager:209 - PASS : sended duels appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:01:06 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 18:01:07 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 18:07:10 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 18:07:11 INFO  Reflections:229 - Reflections took 265 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 18:07:11 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 18:08:06 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:08:07 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 18:08:07 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-25 18:08:07 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-25 18:08:07 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-25 18:08:08 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 18:08:58 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:09:03 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:09:03 ERROR VerificationManager:218 - FAIL : expected [3 Day Step Duel] but found [1 Week Step Duel] Actual value : 1 Week Step Duel is not same as Expected value: 3 Day Step Duel
+2017-01-25 18:09:53 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:09:58 INFO  VerificationManager:209 - PASS : Correct user is  is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:09:58 ERROR VerificationManager:218 - FAIL : expected [24 Hour Step Duel] but found [1 Week Step Duel] Actual value : 1 Week Step Duel is not same as Expected value: 24 Hour Step Duel
+2017-01-25 18:10:47 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:10:52 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:10:52 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 18:10:53 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 18:51:03 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 18:51:03 INFO  Reflections:229 - Reflections took 141 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 18:51:03 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 18:52:51 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 18:52:51 INFO  Reflections:229 - Reflections took 296 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 18:52:52 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 18:53:44 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:53:45 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 18:53:45 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-25 18:53:45 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-25 18:53:45 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-25 18:53:46 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 18:54:35 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:54:39 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:54:39 ERROR VerificationManager:218 - FAIL : expected [3 Day Step Duel] but found [24 Hour Step Duel] Actual value : 24 Hour Step Duel is not same as Expected value: 3 Day Step Duel
+2017-01-25 18:55:29 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:55:35 INFO  VerificationManager:209 - PASS : Correct user is  is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:55:35 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-25 18:56:24 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 18:56:29 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 18:56:29 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 18:56:30 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 19:02:19 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 19:02:19 INFO  Reflections:229 - Reflections took 250 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 19:02:19 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 19:03:14 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:03:15 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 19:03:15 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-25 19:03:15 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-25 19:03:15 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-25 19:03:16 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct usernaame Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 19:04:06 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:04:11 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:04:11 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-25 19:05:01 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:05:06 INFO  VerificationManager:209 - PASS : Correct user is  is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:05:06 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-25 19:05:57 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:06:01 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:06:02 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 19:06:03 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-25 19:43:26 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-25 19:43:26 INFO  Reflections:229 - Reflections took 234 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-25 19:43:27 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-25 19:44:21 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:44:22 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 19:44:22 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-25 19:44:22 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-25 19:44:22 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-25 19:44:23 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct username Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-25 19:45:15 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:45:19 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:45:20 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-25 19:46:09 INFO  VerificationManager:36 - PASS : After sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:46:14 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:46:14 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-25 19:47:03 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-25 19:47:08 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-25 19:47:08 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-25 19:47:09 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-27 13:22:39 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 13:22:39 INFO  Reflections:229 - Reflections took 333 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-27 13:22:40 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 13:24:16 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:24:17 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:24:17 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-27 13:24:17 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-27 13:24:17 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-27 13:24:18 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct username Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:25:21 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:25:25 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 13:25:25 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {}->http://0.0.0.0:54914: Permission denied: connect
+2017-01-27 13:26:13 INFO  RetryExec:112 - Retrying request to {}->http://0.0.0.0:54914
+2017-01-27 13:26:13 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-27 13:27:05 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 13:27:06 INFO  Reflections:229 - Reflections took 130 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-27 13:27:06 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 13:28:00 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:28:01 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:28:01 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-27 13:28:01 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-27 13:28:01 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-27 13:28:02 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct username Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:28:54 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:28:58 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 13:28:59 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-27 13:38:24 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 13:38:24 INFO  Reflections:229 - Reflections took 258 ms to scan 1 urls, producing 5 keys and 42 values 
+2017-01-27 13:38:24 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 13:39:20 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:39:21 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:39:21 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-27 13:39:21 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-27 13:39:21 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-27 13:39:22 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct username Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 13:40:14 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:40:19 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 13:40:19 INFO  VerificationManager:209 - PASS : Three day step duels appearing in Duels pending section Actual value : 3 Day Step Duel is same as Expected value: 3 Day Step Duel
+2017-01-27 13:40:21 INFO  VerificationManager:209 - PASS : Correct error message is displaying on with draw invite Pop Up Actual value : Withdraw this invite? is same as Expected value: Withdraw this invite?
+2017-01-27 13:41:15 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:41:19 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 13:41:19 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-27 13:41:21 INFO  VerificationManager:209 - PASS : Correct error message is displaying on with draw invite Pop Up Actual value : Withdraw this invite? is same as Expected value: Withdraw this invite?
+2017-01-27 13:42:13 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 13:42:18 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 13:42:18 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-27 13:42:20 INFO  VerificationManager:209 - PASS : Correct error message is displaying on with draw invite Pop Up Actual value : Withdraw this invite? is same as Expected value: Withdraw this invite?
+2017-01-27 13:42:21 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-27 17:50:31 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 17:50:31 INFO  Reflections:229 - Reflections took 228 ms to scan 1 urls, producing 5 keys and 43 values 
+2017-01-27 17:50:31 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 17:51:26 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-27 18:06:27 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 18:06:27 INFO  Reflections:229 - Reflections took 242 ms to scan 1 urls, producing 5 keys and 43 values 
+2017-01-27 18:06:27 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 18:07:51 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD
+2017-01-27 18:38:57 INFO  ParallelThread:49 - Total Number of devices detected::1
+2017-01-27 18:38:58 INFO  Reflections:229 - Reflections took 262 ms to scan 1 urls, producing 5 keys and 43 values 
+2017-01-27 18:38:58 INFO  AppiumParallelTest:49 - Starting Appium server for device : ZX1G429KVD
+2017-01-27 18:39:53 INFO  VerificationManager:36 - PASS : Duels icon is displayed on Friends Profile screen Actual value : true is same as Expected value: true
+2017-01-27 18:39:54 INFO  VerificationManager:209 - PASS : Correct User name is populated on Duel Invite Screen Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 18:39:54 INFO  VerificationManager:209 - PASS : By default duration for duels in Duel invite screen is 3 days Actual value : 3 is same as Expected value: 3
+2017-01-27 18:39:54 INFO  VerificationManager:209 - PASS : By default privacy for duel in Duel invite screen is public Actual value : Public is same as Expected value: Public
+2017-01-27 18:39:55 INFO  VerificationManager:36 - PASS : Send button on Duel invite screen is enabled Actual value : true is same as Expected value: true
+2017-01-27 18:39:55 INFO  VerificationManager:209 - PASS : Tapping back arrow on Duel invite screen redirect to friends profile screen with correct username Actual value : sagar paidalwar is same as Expected value: sagar paidalwar
+2017-01-27 18:40:43 INFO  AppiumParallelTest:49 - Uploading Screenshot for failure to server
+2017-01-27 18:41:39 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 18:41:44 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 18:41:44 INFO  VerificationManager:209 - PASS : Twenty Four hour step duels appearing in Duels pending section Actual value : 24 Hour Step Duel is same as Expected value: 24 Hour Step Duel
+2017-01-27 18:41:46 INFO  VerificationManager:209 - PASS : Correct error message is displaying on with draw invite Pop Up Actual value : Withdraw this invite? is same as Expected value: Withdraw this invite?
+2017-01-27 18:42:37 INFO  VerificationManager:36 - PASS : After Sending duel from friends profile user redirect back to friends profile screen Actual value : true is same as Expected value: true
+2017-01-27 18:42:41 INFO  VerificationManager:209 - PASS : Correct user is appearing in Duels pending section Actual value : sagar hasn't responded is same as Expected value: sagar hasn't responded
+2017-01-27 18:42:42 INFO  VerificationManager:209 - PASS : One week duels appearing in Duels pending section Actual value : 1 Week Step Duel is same as Expected value: 1 Week Step Duel
+2017-01-27 18:42:43 INFO  VerificationManager:209 - PASS : Correct error message is displaying on with draw invite Pop Up Actual value : Withdraw this invite? is same as Expected value: Withdraw this invite?
+2017-01-27 18:42:45 INFO  AppiumParallelTest:49 - Closing Appium server for device ZX1G429KVD

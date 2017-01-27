@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Duels">
+   <test name="Send Duels From Friends Profile"> 
+     <classes> 
+       <class name="com.atmecs.falcone.duels.StartDuelOnFriendsProfile"/>
+     </classes>
+   </test>
+    <test name="Send Three Days Duels From Friends Profile"> 
+     <classes> 
+       <class name="com.atmecs.falcone.duels.SendThreeDaysDuelFromFriendsProfile"/>
+     </classes>
+   </test>
+    <test name="Send twenty four hour Duels From Friends Profile"> 
+     <classes> 
+       <class name="com.atmecs.falcone.duels.SendTwentyFourHrDuelFromFriendsProfile"/>
+     </classes>
+   </test>
+    <test name="Send one week Duels From Friends Profile"> 
+     <classes> 
+       <class name="com.atmecs.falcone.duels.SendOneWeekDuelFromFriendsProfile"/>
+     </classes>
+   </test>
+<!-- <test name="Check Friends Move detail screen"> -->
+<!-- <classes> -->
+<!-- <class name="com.atmecs.falcone.duels.CheckFriendsMoveDetailScreen"/></classes> -->
+<!-- </test> -->
+</suite>
